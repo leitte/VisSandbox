@@ -1,5 +1,5 @@
 dependencies:
-  - nbserverproxy
+  - conda-forge::jupyter-panel-proxy
   - pandas
   - pyviz::pyviz_comms
   - bokeh::bokeh
