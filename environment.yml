@@ -4,4 +4,3 @@ dependencies:
   - pyviz::pyviz_comms
   - bokeh::bokeh
   - pyviz::panel
-  - shapely
